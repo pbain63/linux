@@ -1,3 +1,2 @@
 # linux
-Going to Galaxy
-##Does not add to the repository
+Going to the Galaxy.
